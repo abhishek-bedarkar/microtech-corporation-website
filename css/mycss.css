@@ -1,0 +1,42 @@
+#nav{
+    background-color: white;
+    
+}
+
+
+
+#map {
+        height: 400px;
+        width: 100%;
+       }
+       
+       .s{
+           font-weight: bolder;
+           font-size: 35px;
+           color: gray;
+       }
+      
+       .h{
+           font-weight:bolder;
+           font-style: italic;
+           color: orange;
+       }
+       
+       .main{
+           background-color: orange;
+       }
+       .main-text{
+           color: whitesmoke;
+           
+       }
+       .arrow-center{
+           align-content: center;
+       }
+       .mail{
+           background-image: url(images/pexels-photo-209641.jpeg);
+           
+           opacity: 0.5;
+           color: black;
+           font-weight: 200;
+       }
+
